@@ -1,1 +1,1 @@
-# Python-ile-Dengeleme-Hesab-
+# Python-ile-Dengeleme-Hesabı-
